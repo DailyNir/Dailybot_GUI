@@ -1,0 +1,21 @@
+[1.115s] Invoking command in '/home/nir/Desktop/Dailybot_GUI/src/gui': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/gui/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gui build --build-base /home/nir/Desktop/Dailybot_GUI/build/gui/build install --record /home/nir/Desktop/Dailybot_GUI/build/gui/install.log --single-version-externally-managed
+[1.309s] running egg_info
+[1.310s] writing ../../build/gui/gui.egg-info/PKG-INFO
+[1.310s] writing dependency_links to ../../build/gui/gui.egg-info/dependency_links.txt
+[1.310s] writing entry points to ../../build/gui/gui.egg-info/entry_points.txt
+[1.310s] writing requirements to ../../build/gui/gui.egg-info/requires.txt
+[1.310s] writing top-level names to ../../build/gui/gui.egg-info/top_level.txt
+[1.313s] reading manifest file '../../build/gui/gui.egg-info/SOURCES.txt'
+[1.315s] writing manifest file '../../build/gui/gui.egg-info/SOURCES.txt'
+[1.315s] running build
+[1.315s] running build_py
+[1.318s] running install
+[1.318s] running install_lib
+[1.322s] running install_data
+[1.322s] running install_egg_info
+[1.324s] removing '/home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui-0.0.0-py3.10.egg-info' (and everything under it)
+[1.324s] Copying ../../build/gui/gui.egg-info to /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui-0.0.0-py3.10.egg-info
+[1.325s] running install_scripts
+[1.342s] Installing run_gui script to /home/nir/Desktop/Dailybot_GUI/install/gui/lib/gui
+[1.345s] writing list of installed files to '/home/nir/Desktop/Dailybot_GUI/build/gui/install.log'
+[1.369s] Invoked command in '/home/nir/Desktop/Dailybot_GUI/src/gui' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/gui/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gui build --build-base /home/nir/Desktop/Dailybot_GUI/build/gui/build install --record /home/nir/Desktop/Dailybot_GUI/build/gui/install.log --single-version-externally-managed

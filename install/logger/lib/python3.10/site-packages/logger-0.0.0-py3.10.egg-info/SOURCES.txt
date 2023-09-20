@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/logger/logger.egg-info/PKG-INFO
+../../build/logger/logger.egg-info/SOURCES.txt
+../../build/logger/logger.egg-info/dependency_links.txt
+../../build/logger/logger.egg-info/entry_points.txt
+../../build/logger/logger.egg-info/requires.txt
+../../build/logger/logger.egg-info/top_level.txt
+../../build/logger/logger.egg-info/zip-safe
+logger/__init__.py
+logger/logger.py
+resource/logger
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

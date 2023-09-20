@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/fake_data/fake_data.egg-info/PKG-INFO
+../../build/fake_data/fake_data.egg-info/SOURCES.txt
+../../build/fake_data/fake_data.egg-info/dependency_links.txt
+../../build/fake_data/fake_data.egg-info/entry_points.txt
+../../build/fake_data/fake_data.egg-info/requires.txt
+../../build/fake_data/fake_data.egg-info/top_level.txt
+../../build/fake_data/fake_data.egg-info/zip-safe
+fake_data/__init__.py
+fake_data/fake_data.py
+resource/fake_data
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

@@ -1,0 +1,21 @@
+[1.231s] Invoking command in '/home/nir/Desktop/Dailybot_GUI/src/fake_data': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/fake_data/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/fake_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/fake_data build --build-base /home/nir/Desktop/Dailybot_GUI/build/fake_data/build install --record /home/nir/Desktop/Dailybot_GUI/build/fake_data/install.log --single-version-externally-managed
+[1.409s] running egg_info
+[1.409s] writing ../../build/fake_data/fake_data.egg-info/PKG-INFO
+[1.409s] writing dependency_links to ../../build/fake_data/fake_data.egg-info/dependency_links.txt
+[1.409s] writing entry points to ../../build/fake_data/fake_data.egg-info/entry_points.txt
+[1.409s] writing requirements to ../../build/fake_data/fake_data.egg-info/requires.txt
+[1.410s] writing top-level names to ../../build/fake_data/fake_data.egg-info/top_level.txt
+[1.411s] reading manifest file '../../build/fake_data/fake_data.egg-info/SOURCES.txt'
+[1.411s] writing manifest file '../../build/fake_data/fake_data.egg-info/SOURCES.txt'
+[1.412s] running build
+[1.412s] running build_py
+[1.412s] running install
+[1.412s] running install_lib
+[1.413s] running install_data
+[1.413s] running install_egg_info
+[1.414s] removing '/home/nir/Desktop/Dailybot_GUI/install/fake_data/lib/python3.10/site-packages/fake_data-0.0.0-py3.10.egg-info' (and everything under it)
+[1.415s] Copying ../../build/fake_data/fake_data.egg-info to /home/nir/Desktop/Dailybot_GUI/install/fake_data/lib/python3.10/site-packages/fake_data-0.0.0-py3.10.egg-info
+[1.416s] running install_scripts
+[1.431s] Installing publish_fake_data script to /home/nir/Desktop/Dailybot_GUI/install/fake_data/lib/fake_data
+[1.431s] writing list of installed files to '/home/nir/Desktop/Dailybot_GUI/build/fake_data/install.log'
+[1.454s] Invoked command in '/home/nir/Desktop/Dailybot_GUI/src/fake_data' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/fake_data/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/fake_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/fake_data build --build-base /home/nir/Desktop/Dailybot_GUI/build/fake_data/build install --record /home/nir/Desktop/Dailybot_GUI/build/fake_data/install.log --single-version-externally-managed

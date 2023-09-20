@@ -1,0 +1,227 @@
+running egg_info
+creating ../../build/gui/gui.egg-info
+writing ../../build/gui/gui.egg-info/PKG-INFO
+writing dependency_links to ../../build/gui/gui.egg-info/dependency_links.txt
+writing entry points to ../../build/gui/gui.egg-info/entry_points.txt
+writing requirements to ../../build/gui/gui.egg-info/requires.txt
+writing top-level names to ../../build/gui/gui.egg-info/top_level.txt
+writing manifest file '../../build/gui/gui.egg-info/SOURCES.txt'
+reading manifest file '../../build/gui/gui.egg-info/SOURCES.txt'
+writing manifest file '../../build/gui/gui.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui
+copying gui/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui
+copying gui/gui.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm
+copying gui/xarm/version.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm
+copying gui/xarm/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm
+copying gui/xarm/__init__ copy.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/track.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/grammar_coroutine.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/ft_sensor.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/report.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/decorator.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/code.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/parse.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/utils.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/robotiq.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/gripper.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/modbus_tcp.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/grammar_async.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/base.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/servo.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/xarm.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/gpio.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/base_board.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/studio.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/record.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+copying gui/xarm/x3/events.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper
+copying gui/xarm/wrapper/xarm_api.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper
+copying gui/xarm/wrapper/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper
+copying gui/xarm/wrapper/studio_api.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools
+copying gui/xarm/tools/blockly_tool.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools
+copying gui/xarm/tools/list_ports.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools
+copying gui/xarm/tools/threads.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools
+copying gui/xarm/tools/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools
+copying gui/xarm/tools/utils.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core
+copying gui/xarm/core/version.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core
+copying gui/xarm/core/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+copying gui/xarm/tools/blockly/_blockly_node.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+copying gui/xarm/tools/blockly/_blockly_tool.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+copying gui/xarm/tools/blockly/_blockly_highlight.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+copying gui/xarm/tools/blockly/_blockly_handler.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+copying gui/xarm/tools/blockly/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+copying gui/xarm/tools/blockly/_blockly_base.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper
+copying gui/xarm/core/wrapper/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper
+copying gui/xarm/core/wrapper/uxbus_cmd_tcp.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper
+copying gui/xarm/core/wrapper/uxbus_cmd_ser.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper
+copying gui/xarm/core/wrapper/uxbus_cmd.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils
+copying gui/xarm/core/utils/debug_print.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils
+copying gui/xarm/core/utils/convert.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils
+copying gui/xarm/core/utils/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils
+copying gui/xarm/core/utils/crc16.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils
+copying gui/xarm/core/utils/log.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm
+copying gui/xarm/core/comm/uxbus_cmd_protocol.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm
+copying gui/xarm/core/comm/socket_port.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm
+copying gui/xarm/core/comm/serial_port.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm
+copying gui/xarm/core/comm/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm
+copying gui/xarm/core/comm/base.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm
+creating /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config
+copying gui/xarm/core/config/x_config.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config
+copying gui/xarm/core/config/__init__.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config
+copying gui/xarm/core/config/x_code.py -> /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config
+running install
+running install_lib
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/track.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/grammar_coroutine.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/ft_sensor.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/report.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/decorator.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/code.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/parse.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/utils.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/robotiq.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/gripper.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/modbus_tcp.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/grammar_async.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/base.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/servo.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/xarm.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/gpio.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/base_board.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/studio.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/record.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/x3/events.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper/xarm_api.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/wrapper/studio_api.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/version.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly_tool.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/list_ports.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/threads.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/utils.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly/_blockly_node.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly/_blockly_tool.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly/_blockly_highlight.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly/_blockly_handler.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/tools/blockly/_blockly_base.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/__init__ copy.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper/uxbus_cmd_tcp.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper/uxbus_cmd_ser.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/wrapper/uxbus_cmd.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils/debug_print.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils/convert.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils/crc16.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/utils/log.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm/uxbus_cmd_protocol.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm/socket_port.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm/serial_port.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/comm/base.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/version.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config/x_config.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config/__init__.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/xarm/core/config/x_code.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config
+copying /home/nir/Desktop/Dailybot_GUI/build/gui/build/lib/gui/gui.py -> /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/track.py to track.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/grammar_coroutine.py to grammar_coroutine.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/ft_sensor.py to ft_sensor.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/report.py to report.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/decorator.py to decorator.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/code.py to code.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/parse.py to parse.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/utils.py to utils.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/robotiq.py to robotiq.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/gripper.py to gripper.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/modbus_tcp.py to modbus_tcp.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/grammar_async.py to grammar_async.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/base.py to base.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/servo.py to servo.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/xarm.py to xarm.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/gpio.py to gpio.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/base_board.py to base_board.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/studio.py to studio.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/record.py to record.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/x3/events.py to events.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper/xarm_api.py to xarm_api.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/wrapper/studio_api.py to studio_api.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/version.py to version.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly_tool.py to blockly_tool.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/list_ports.py to list_ports.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/threads.py to threads.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/utils.py to utils.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly/_blockly_node.py to _blockly_node.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly/_blockly_tool.py to _blockly_tool.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly/_blockly_highlight.py to _blockly_highlight.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly/_blockly_handler.py to _blockly_handler.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/tools/blockly/_blockly_base.py to _blockly_base.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/__init__ copy.py to __init__ copy.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper/uxbus_cmd_tcp.py to uxbus_cmd_tcp.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper/uxbus_cmd_ser.py to uxbus_cmd_ser.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/wrapper/uxbus_cmd.py to uxbus_cmd.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils/debug_print.py to debug_print.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils/convert.py to convert.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils/crc16.py to crc16.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/utils/log.py to log.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm/uxbus_cmd_protocol.py to uxbus_cmd_protocol.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm/socket_port.py to socket_port.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm/serial_port.py to serial_port.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/comm/base.py to base.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/version.py to version.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config/x_config.py to x_config.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/xarm/core/config/x_code.py to x_code.cpython-310.pyc
+byte-compiling /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui/gui.py to gui.cpython-310.pyc
+running install_data
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/share/ament_index
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/share/ament_index/resource_index
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/share/ament_index/resource_index/packages
+copying resource/gui -> /home/nir/Desktop/Dailybot_GUI/install/gui/share/ament_index/resource_index/packages
+copying package.xml -> /home/nir/Desktop/Dailybot_GUI/install/gui/share/gui
+creating /home/nir/Desktop/Dailybot_GUI/install/gui/share/gui/launch
+running install_egg_info
+Copying ../../build/gui/gui.egg-info to /home/nir/Desktop/Dailybot_GUI/install/gui/lib/python3.10/site-packages/gui-0.0.0-py3.10.egg-info
+running install_scripts
+Installing run_gui script to /home/nir/Desktop/Dailybot_GUI/install/gui/lib/gui
+writing list of installed files to '/home/nir/Desktop/Dailybot_GUI/build/gui/install.log'
