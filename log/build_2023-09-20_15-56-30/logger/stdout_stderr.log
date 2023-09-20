@@ -1,0 +1,18 @@
+running egg_info
+writing ../../build/logger/logger.egg-info/PKG-INFO
+writing dependency_links to ../../build/logger/logger.egg-info/dependency_links.txt
+writing entry points to ../../build/logger/logger.egg-info/entry_points.txt
+writing requirements to ../../build/logger/logger.egg-info/requires.txt
+writing top-level names to ../../build/logger/logger.egg-info/top_level.txt
+reading manifest file '../../build/logger/logger.egg-info/SOURCES.txt'
+writing manifest file '../../build/logger/logger.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/nir/Desktop/Dailybot_GUI/install/logger/lib/python3.10/site-packages/logger-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/logger/logger.egg-info to /home/nir/Desktop/Dailybot_GUI/install/logger/lib/python3.10/site-packages/logger-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/nir/Desktop/Dailybot_GUI/build/logger/install.log'

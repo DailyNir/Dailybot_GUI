@@ -28,7 +28,7 @@ class LoggerWindow(customtkinter.CTkToplevel):
         save_button.grid(row=0, column=2, padx=10, pady=10, sticky="nswe")
 
         # ScrolledText widget to show logs with vertical scrollbar
-        self.log_text = scrolledtext.ScrolledText(self, width=50, height=20)  # Adjust width and height as needed
+        self.log_text = scrolledtext.ScrolledText(self, width=50, height=50)  # Adjust width and height as needed
         self.log_text.grid(row=1, column=0, columnspan=3, padx=10, pady=10, sticky="nsew")
 
         # Configure the grid to expand with the window

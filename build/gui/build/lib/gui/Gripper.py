@@ -5,7 +5,7 @@ import customtkinter
 class GripperWindow(customtkinter.CTkToplevel):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.geometry("600x1000")
+        self.geometry("700x1000")
         self.title("Gripper Controller")
         self.grid_columnconfigure(0, weight=1)  # Left padding column
         self.grid_columnconfigure(2, weight=1)  # Right padding column

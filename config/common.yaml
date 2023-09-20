@@ -1,0 +1,11 @@
+Camera Default Topic Names: /camera/image_raw
+Cutter IP: 192.168.1.209
+Dashboard Default Topic Names: /R_xarm/joint_positions
+Default Logs Folder Path: /Logs
+Default Recordings Folder: /Recordings
+Gripper IP: 192.168.1.221
+Host IP: 192.168.1.1
+Password: '1'
+Port: '5432'
+PostgreSQL Database Name: DailyBot
+User Name: nir

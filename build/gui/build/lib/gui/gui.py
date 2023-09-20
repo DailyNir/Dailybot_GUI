@@ -47,7 +47,7 @@ class MainApp(customtkinter.CTk):
         self.settings_window=None
         # configure window
         self.title("Daily Robotics")
-        self.geometry(f"{1850}x{1000}")
+        self.geometry(f"{1850}x{950}")
         self.minsize(1850, 1050)
         # configure grid layout (4x4)
         

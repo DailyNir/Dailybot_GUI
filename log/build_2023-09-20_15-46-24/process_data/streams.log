@@ -1,0 +1,21 @@
+[1.031s] Invoking command in '/home/nir/Desktop/Dailybot_GUI/src/process_data': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/process_data/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/process_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/process_data build --build-base /home/nir/Desktop/Dailybot_GUI/build/process_data/build install --record /home/nir/Desktop/Dailybot_GUI/build/process_data/install.log --single-version-externally-managed
+[1.193s] running egg_info
+[1.193s] writing ../../build/process_data/process_data.egg-info/PKG-INFO
+[1.194s] writing dependency_links to ../../build/process_data/process_data.egg-info/dependency_links.txt
+[1.194s] writing entry points to ../../build/process_data/process_data.egg-info/entry_points.txt
+[1.194s] writing requirements to ../../build/process_data/process_data.egg-info/requires.txt
+[1.194s] writing top-level names to ../../build/process_data/process_data.egg-info/top_level.txt
+[1.195s] reading manifest file '../../build/process_data/process_data.egg-info/SOURCES.txt'
+[1.195s] writing manifest file '../../build/process_data/process_data.egg-info/SOURCES.txt'
+[1.195s] running build
+[1.195s] running build_py
+[1.195s] running install
+[1.195s] running install_lib
+[1.196s] running install_data
+[1.196s] running install_egg_info
+[1.197s] removing '/home/nir/Desktop/Dailybot_GUI/install/process_data/lib/python3.10/site-packages/process_data-0.0.0-py3.10.egg-info' (and everything under it)
+[1.197s] Copying ../../build/process_data/process_data.egg-info to /home/nir/Desktop/Dailybot_GUI/install/process_data/lib/python3.10/site-packages/process_data-0.0.0-py3.10.egg-info
+[1.198s] running install_scripts
+[1.212s] Installing process_data script to /home/nir/Desktop/Dailybot_GUI/install/process_data/lib/process_data
+[1.212s] writing list of installed files to '/home/nir/Desktop/Dailybot_GUI/build/process_data/install.log'
+[1.253s] Invoked command in '/home/nir/Desktop/Dailybot_GUI/src/process_data' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/process_data/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/process_data/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/process_data build --build-base /home/nir/Desktop/Dailybot_GUI/build/process_data/build install --record /home/nir/Desktop/Dailybot_GUI/build/process_data/install.log --single-version-externally-managed

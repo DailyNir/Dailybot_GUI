@@ -1,0 +1,20 @@
+[1.067s] Invoking command in '/home/nir/Desktop/Dailybot_GUI/src/logger': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/logger/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/logger/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/logger build --build-base /home/nir/Desktop/Dailybot_GUI/build/logger/build install --record /home/nir/Desktop/Dailybot_GUI/build/logger/install.log --single-version-externally-managed
+[1.233s] running egg_info
+[1.233s] writing ../../build/logger/logger.egg-info/PKG-INFO
+[1.233s] writing dependency_links to ../../build/logger/logger.egg-info/dependency_links.txt
+[1.234s] writing entry points to ../../build/logger/logger.egg-info/entry_points.txt
+[1.234s] writing requirements to ../../build/logger/logger.egg-info/requires.txt
+[1.234s] writing top-level names to ../../build/logger/logger.egg-info/top_level.txt
+[1.235s] reading manifest file '../../build/logger/logger.egg-info/SOURCES.txt'
+[1.235s] writing manifest file '../../build/logger/logger.egg-info/SOURCES.txt'
+[1.235s] running build
+[1.236s] running build_py
+[1.236s] running install
+[1.236s] running install_lib
+[1.236s] running install_data
+[1.236s] running install_egg_info
+[1.237s] removing '/home/nir/Desktop/Dailybot_GUI/install/logger/lib/python3.10/site-packages/logger-0.0.0-py3.10.egg-info' (and everything under it)
+[1.238s] Copying ../../build/logger/logger.egg-info to /home/nir/Desktop/Dailybot_GUI/install/logger/lib/python3.10/site-packages/logger-0.0.0-py3.10.egg-info
+[1.238s] running install_scripts
+[1.252s] writing list of installed files to '/home/nir/Desktop/Dailybot_GUI/build/logger/install.log'
+[1.291s] Invoked command in '/home/nir/Desktop/Dailybot_GUI/src/logger' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/nir/Desktop/Dailybot_GUI/build/logger/prefix_override:/home/nir/Desktop/Dailybot_GUI/install/logger/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/logger build --build-base /home/nir/Desktop/Dailybot_GUI/build/logger/build install --record /home/nir/Desktop/Dailybot_GUI/build/logger/install.log --single-version-externally-managed
